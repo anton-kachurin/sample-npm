@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "bin": {
-    "bower": "bin/deploy"
+    "deploy": "bin/deploy"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
