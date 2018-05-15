@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/anton-kachurin/sample-npm/issues"
   },
-  "homepage": "https://github.com/anton-kachurin/sample-npm#readme"
+  "homepage": "https://github.com/anton-kachurin/sample-npm#readme",
+  "dependencies": {
+    "shelljs": "^0.8.2"
+  }
 }
